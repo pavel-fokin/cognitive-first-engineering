@@ -35,16 +35,14 @@ The central thought is simple:
 
 > **The primary bottleneck of modern systems is not execution — it is comprehension.**
 
-## The Foundation Principles
+## The Foundations
 
-These principles describe **invariants**, not best practices.
+These foundations describe **invariants**, not best practices.
 They are independent of tools, methodologies, or intent.
 
-- Thinking precedes artifacts.
-- Human cognition is biologically bounded.
-- Attention is serial with switching costs.
-- Understanding decays with time unless maintained.
-- Coordination cost grows superlinearly with the number of people.
+1. Cognition is hard bounded.
+2. Cognitive processing is discrete, serial, and consumes energy.
+3. Cognitive structures degrade unless maintained.
 
 The goal is to keep them minimal and orthogonal.
 
