@@ -50,7 +50,7 @@ All other laws, patterns, and practices in this repository are derived from them
 
 ## What You’ll Find in This Repository
 
-TBD.
+- [Research Registry](research-registry.md) — empirical findings that establish the biological constraints.
 
 ## Status
 
