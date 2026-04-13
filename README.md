@@ -35,14 +35,20 @@ The central thought is simple:
 
 > **The primary bottleneck of modern systems is not execution — it is comprehension.**
 
-## The Foundations
+## The Four Foundations
 
 These foundations describe **invariants**, not best practices.
 They are independent of tools, methodologies, or intent.
 
-1. Cognition is hard bounded.
-2. Cognitive processing is discrete, serial, and consumes energy.
-3. Cognitive structures degrade unless maintained.
+*Intra-agent constraints*
+
+1. Cognitive capacity is structurally bounded.
+2. Cognitive processing is serial and consumes energy.
+3. Cognitive structures degrade over time.
+
+*Inter-agent boundary*
+
+4. Cognitive transfer between agents is lossy and reconstructive.
 
 The goal is to keep them minimal and orthogonal.
 
