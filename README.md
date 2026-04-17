@@ -43,7 +43,7 @@ They are independent of tools, methodologies, or intent.
 *Intra-agent constraints*
 
 1. Cognitive capacity is structurally bounded.
-2. Cognitive processing is serial and consumes energy.
+2. Cognitive processing is serial and energy-consuming.
 3. Cognitive structures degrade over time.
 
 *Inter-agent boundary*
